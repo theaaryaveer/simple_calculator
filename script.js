@@ -16,4 +16,4 @@ Array.from(buttons).forEach((button)=>{
     document.querySelector('input').value = string;
       }
   })
-})
+}) 
